@@ -1,0 +1,15 @@
+# we don't want these files in our repo
+**/.DS_store
+**/.idea
+**/.ipynb_checkpoints
+**/__pycache__
+**/gifs/*
+
+# ignore pdfs and images
+/analysis/*
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
