@@ -2,7 +2,7 @@
 "Active Mutual Conjoint Estimation of Multiple Contrast Sensitivity Functions"
 Dom CP Marticorena, Quinn Wai Wong, Jake Browning, Ken Wilbur, Pinakin Davey, Aaron R. Seitz, Jacob R. Gardner, Dennis L. Barbour
 _Journal of Vision_
-https://www.medrxiv.org/content/10.1101/2024.02.12.24302700v2
+https://jov.arvojournals.org/article.aspx?articleid=2800664
 
 ## Description
 
